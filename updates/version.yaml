@@ -1,0 +1,4 @@
+1.0.1: First version of PostToFacebook
+1.0.2: 
+  - Keep track of posts
+  - create_table.php

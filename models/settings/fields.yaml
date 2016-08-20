@@ -1,0 +1,24 @@
+fields:
+
+#  app_id:
+#    label: App ID
+#    description: Obtain it from your app's dashboard at http://developers.facebook.com
+#    required: true
+#
+#  app_secret:
+#    label: App Secret
+#    description: Obtain it from your app's dashboard at http://developers.facebook.com
+#    required: true
+
+  fb_page_id:
+    label: serviushack.posttofacebook::lang.settings.page_id
+    comment: serviushack.posttofacebook::lang.settings.page_id_comment
+
+  fb_page_access_token:
+    label: serviushack.posttofacebook::lang.settings.page_access_token
+    comment: serviushack.posttofacebook::lang.settings.page_access_token_comment
+
+  post_page:
+    label: serviushack.posttofacebook::lang.settings.post_page
+    comment: serviushack.posttofacebook::lang.settings.post_page_comment
+    type: dropdown
